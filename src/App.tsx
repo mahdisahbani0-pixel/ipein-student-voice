@@ -55,6 +55,8 @@ const copy = {
     qrTitle: "Votre QR code", qrText: "Imprimez ce code et affichez-le sur le campus. Les étudiants pourront scanner pour accéder au formulaire.",
     download: "Télécharger le QR code", copyLink: "Copier le lien du site", copied: "Lien copié", back: "Retour au formulaire",
     anonymousLabel: "Anonyme", namedLabel: "Avec identité", submitted: "Envoyée",
+    setupTitle: "Connectez votre base de données",
+    setupText: "Ce site nécessite les paramètres de votre projet Supabase pour activer les suggestions et l'espace privé du délégué. Consultez le guide d'installation inclus dans le projet.",
     statusLabels: { new: "Nouvelle", reviewing: "En cours", considered: "À l'étude", done: "Traitée" },
     emptySearch: "Aucune suggestion correspondante."
   }
